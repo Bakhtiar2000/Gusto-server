@@ -1,5 +1,6 @@
 [
     {
+      "id": 1,
       "picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?size=626&ext=jpg&ga=GA1.1.670690934.1670350375&semt=robertav1_2_sidr",
       "name": "Giovanni Rossi",
       "years_of_experience": 15,
@@ -45,6 +46,7 @@
       ]
     },
     {
+      "id": 2,
       "picture": "https://img.freepik.com/free-photo/portrait-elderly-chef-dressed-uniform-with-crossed-arms-against-dark-background_613910-17580.jpg?size=626&ext=jpg&ga=GA1.1.670690934.1670350375&semt=robertav1_2_sidr",
       "name": "Sofia Bianchi",
       "years_of_experience": 10,
@@ -90,6 +92,7 @@
       ]
     },
     {
+      "id": 3,
       "picture": "https://img.freepik.com/free-photo/female-cook-showing-heart-gesture-uniform-apron-looking-happy-front-view_176474-62886.jpg?size=626&ext=jpg&ga=GA1.2.670690934.1670350375&semt=robertav1_2_sidr",
       "name": "Isabella Conti",
       "years_of_experience": 18,
@@ -135,6 +138,7 @@
       ]
     },
     {
+      "id": 4,
       "picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-cap-holding-bowl-with-smile-green-wall_140725-26376.jpg?size=626&ext=jpg&ga=GA1.2.670690934.1670350375&semt=robertav1_2_sidr",
       "name": "Caterina Moretti",
       "years_of_experience": 13,
@@ -185,6 +189,7 @@
       ]
     },
     {
+      "id": 5,
       "picture": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5343.jpg?size=626&ext=jpg&ga=GA1.2.670690934.1670350375&semt=robertav1_2_sidr",
       "name": "Marco Rossi",
       "years_of_experience": 15,
@@ -232,6 +237,7 @@
       ]
     },
     {
+      "id": 6,
       "picture": "https://img.freepik.com/premium-photo/asian-male-chef-yellow_296537-1161.jpg?size=626&ext=jpg&ga=GA1.2.670690934.1670350375&semt=robertav1_2_sidr",
       "name": "Giovanni Ferrari",
       "years_of_experience": 16,
