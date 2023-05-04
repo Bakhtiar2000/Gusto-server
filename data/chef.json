@@ -1,13 +1,14 @@
 [
     {
       "id": 1,
-      "picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?size=626&ext=jpg&ga=GA1.1.670690934.1670350375&semt=robertav1_2_sidr",
+      "picture": "https://img.freepik.com/free-photo/portrait-elderly-chef-dressed-uniform-with-crossed-arms-against-dark-background_613910-17580.jpg?size=626&ext=jpg&ga=GA1.1.670690934.1670350375&semt=robertav1_2_sidr",
       "name": "Giovanni Rossi",
       "years_of_experience": 15,
       "likes": 1350,
       "description": "Giovanni is a passionate chef who has been cooking Italian food for over 15 years. He loves experimenting with new ingredients and techniques to create unique and delicious dishes.",
       "recipes": [
         {
+          "_id":11,
           "name": "Spaghetti Carbonara",
           "ingredients": [
             "spaghetti",
@@ -20,6 +21,7 @@
           "rating": 4.5
         },
         {
+          "_id":12,
           "name": "Margherita Pizza",
           "ingredients": [
             "pizza dough",
@@ -32,6 +34,7 @@
           "rating": 4.8
         },
         {
+          "_id":13,
           "name": "Tiramisu",
           "ingredients": [
             "ladyfingers",
@@ -47,13 +50,14 @@
     },
     {
       "id": 2,
-      "picture": "https://img.freepik.com/free-photo/portrait-elderly-chef-dressed-uniform-with-crossed-arms-against-dark-background_613910-17580.jpg?size=626&ext=jpg&ga=GA1.1.670690934.1670350375&semt=robertav1_2_sidr",
+      "picture": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?size=626&ext=jpg&ga=GA1.1.670690934.1670350375&semt=robertav1_2_sidr",    
       "name": "Sofia Bianchi",
       "years_of_experience": 10,
       "likes": 950,
       "description": "Sofia Bianchi is a master of regional Italian cuisine. She draws inspiration from her childhood memories of her grandmother's cooking and has dedicated her career to preserving traditional recipes and techniques. Her passion for using fresh, locally-sourced ingredients is evident in every dish she creates.",
       "recipes": [
         {
+          "_id":21,
           "name": "Pesto Pasta",
           "ingredients": [
             "pasta",
@@ -66,6 +70,7 @@
           "rating": 4.7
         },
         {
+          "_id":22,
           "name": "Caprese Salad",
           "ingredients": [
             "tomatoes",
@@ -78,6 +83,7 @@
           "rating": 4.5
         },
         {
+          "_id":23,
           "name": "Chicken Parmesan",
           "ingredients": [
             "chicken breasts",
@@ -100,6 +106,7 @@
       "description": "Isabella Conti is a rising star of the Italian food scene. Her fresh, inventive dishes are quickly gaining her a reputation as one of the most exciting young chefs in the country. She draws inspiration from her travels around the world, infusing her cooking with global flavors and techniques.",
       "recipes": [
         {
+          "_id":31,
           "name": "Margherita Pizza",
           "ingredients": [
             "pizza dough",
@@ -112,6 +119,7 @@
           "rating": 4.8
         },
         {
+          "_id":32,
           "name": "Spaghetti Carbonara",
           "ingredients": [
             "spaghetti",
@@ -124,6 +132,7 @@
           "rating": 4.6
         },
         {
+          "_id":33,
           "name": "Tiramisu",
           "ingredients": [
             "ladyfingers",
@@ -146,6 +155,7 @@
       "description": "Caterina Moretti is a specialist in Italian desserts. Her mouth-watering creations are as beautiful as they are delicious, and she is known for her meticulous attention to detail. Her desserts are a must-try for anyone with a sweet tooth, and her restaurant is a popular destination for those seeking the perfect end to their meal.",
       "recipes": [
         {
+          "_id":41,
           "name": "Pesto Pasta",
           "ingredients": [
             "pasta",
@@ -159,6 +169,7 @@
           "rating": 4.7
         },
         {
+          "_id":42,
           "name": "Osso Buco",
           "ingredients": [
             "veal shanks",
@@ -174,6 +185,7 @@
           "rating": 4.9
         },
         {
+          "_id":43,
           "name": "Risotto Milanese",
           "ingredients": [
             "arborio rice",
@@ -197,6 +209,7 @@
       "description": "Marco Rossi is renowned for his creative take on classic Italian dishes. His innovative approach to cooking has earned him multiple Michelin stars, and his restaurant is a must-visit for foodies seeking a truly unforgettable dining experience.",
       "recipes": [
         {
+          "_id":51,
           "name": "Margherita Pizza",
           "ingredients": [
             "pizza dough",
@@ -209,6 +222,7 @@
           "rating": 4.9
         },
         {
+          "_id":52,
           "name": "Spaghetti Carbonara",
           "ingredients": [
             "spaghetti",
@@ -222,6 +236,7 @@
           "rating": 4.8
         },
         {
+          "_id":53,
           "name": "Tiramisu",
           "ingredients": [
             "ladyfingers",
@@ -245,6 +260,7 @@
       "description": "Giovanni Ferrari is a master of rustic Italian cuisine. His hearty, comforting dishes are the epitome of traditional Italian cooking, and he is known for his passion for using only the freshest, highest-quality ingredients. His restaurant is a favorite among locals and tourists alike.",
       "recipes": [
         {
+          "_id":61,
           "name": "Linguine alle Vongole",
           "ingredients": [
             "linguine pasta",
@@ -259,6 +275,7 @@
           "rating": 4.9
         },
         {
+          "_id":62,
           "name": "Osso Buco",
           "ingredients": [
             "veal shanks",
@@ -277,6 +294,7 @@
           "rating": 4.8
         },
         {
+          "_id":63,
           "name": "Panna Cotta",
           "ingredients": [
             "heavy cream",
